@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CACB-13DA
+
+ Directory of C:\Users\admin\Desktop\myproject
+
+02/May/2020  11:23    <DIR>          .
+02/May/2020  11:23    <DIR>          ..
+02/May/2020  10:50                21 index.html
+02/May/2020  10:50                15 txt1.txt
+02/May/2020  11:18               443 txt2.txt
+02/May/2020  11:22               492 txtbr1.txt
+02/May/2020  11:23                 0 txtbr2.txt
+               5 File(s)            971 bytes
+               2 Dir(s)  725,124,300,800 bytes free
